@@ -1,5 +1,5 @@
 name: location_tracking
-description: "A new Flutter project."
+description: "A simple MVP (Minimum Viable Product) built using Flutter that demonstrates real-time location tracking between a Customer and a Driver."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: "none" # Remove this line if you wish to publish to pub.dev

@@ -4,6 +4,20 @@ A simple MVP (Minimum Viable Product) built using Flutter that demonstrates real
 
 ---
 
+## 🎬 App Demo
+
+<p>
+  <b>👤 Customer App</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>🚚 Driver App</b>
+</p>
+
+<p>
+  <img src="assets/Shot1_20260328_100651047.gif" height="350"/>
+  <img src="assets/Shot2_20260328_095014002.gif" height="350"/>
+</p>
+
+---
+
 ## 📱 Features
 
 ### 👤 Role-Based Access
